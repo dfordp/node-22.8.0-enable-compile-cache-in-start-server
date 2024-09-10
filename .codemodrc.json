@@ -8,6 +8,7 @@
   "meta": {
     "tags": [
       "node",
+      "22.8.0",
       "enable",
       "compile cache"
     ],
